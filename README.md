@@ -20,3 +20,12 @@
 
   ![Snake animation](https://github.com/falsolento/falsolento/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<div align="center">
+<a href="https://steamcommunity.com/profiles/76561199299121058/" target="blank"><img align="center" src="https://github.com/falsolento/falsolento/blob/main/Game%20Icons/Steam.png" height="30" /></a>  
+<a href=" " target="blank"><img align="center" src="https://github.com/falsolento/falsolento/blob/main/Game%20Icons/PS.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/falsolento/falsolento/blob/main/Game%20Icons/Xbox.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/falsolento/falsolento/blob/main/Game%20Icons/Battlenet.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/falsolento/falsolento/blob/main/Game%20Icons/LoL.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/falsolento/falsolento/blob/main/Game%20Icons/Epic.png" height="30" /></a> 
+</div>

@@ -18,9 +18,6 @@
   <a href = "mailto:joaoraupp3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-raupp-17699a18b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/falsolento/falsolento/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 <div align="center">
 <a href="https://steamcommunity.com/profiles/76561199299121058/" target="blank"><img align="center" src="https://github.com/falsolento/falsolento/blob/main/Game%20Icons/Steam.png" height="30" /></a>  
 <a href=" " target="blank"><img align="center" src="https://github.com/falsolento/falsolento/blob/main/Game%20Icons/PS.png" height="30" /></a> 
